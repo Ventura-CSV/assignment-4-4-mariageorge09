@@ -1,4 +1,6 @@
 def main():
+for num in range(4):
+
 
     numbers = []
     maxval = 0
